@@ -1,0 +1,14 @@
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\bin\Debug\net8.0\Day 9 Task.exe
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\bin\Debug\net8.0\Day 9 Task.deps.json
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\bin\Debug\net8.0\Day 9 Task.runtimeconfig.json
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\bin\Debug\net8.0\Day 9 Task.dll
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\bin\Debug\net8.0\Day 9 Task.pdb
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.AssemblyInfoInputs.cache
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.AssemblyInfo.cs
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.dll
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\refint\Day 9 Task.dll
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.pdb
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\Day 9 Task.genruntimeconfig.cache
+C:\Users\DEll\Source\Repos\Day 9 Task\Day 9 Task\obj\Debug\net8.0\ref\Day 9 Task.dll

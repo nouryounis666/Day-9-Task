@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\interface\\helper2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\interface\\helper2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\class\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\class\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\struct\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\struct\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\class\\circleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\class\\circleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\static\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\static\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|c:\\users\\dell\\source\\repos\\day 9 task\\day 9 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D15A9-AB88-4C56-A323-C37CE1C35FE3}|Day 9 Task\\Day 9 Task.csproj|solutionrelative:day 9 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper2.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Interface\\Helper2.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Interface\\Helper2.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Interface\\Helper2.cs",
+              "RelativeToolTip": "Day 9 Task\\Interface\\Helper2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:23:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\Helper.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Class\\Helper.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\Helper.cs",
+              "RelativeToolTip": "Day 9 Task\\Class\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:23:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\Department.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Class\\Department.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\Department.cs",
+              "RelativeToolTip": "Day 9 Task\\Class\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:23:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Class\\ComplexNumber.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\ComplexNumber.cs",
+              "RelativeToolTip": "Day 9 Task\\Class\\ComplexNumber.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:23:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Struct\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Struct\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Struct\\Rectangle.cs",
+              "RelativeToolTip": "Day 9 Task\\Struct\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:23:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Static\\Utility.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Static\\Utility.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Static\\Utility.cs",
+              "RelativeToolTip": "Day 9 Task\\Static\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:22:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircleClass.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\CircleClass.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Class\\CircleClass.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Class\\CircleClass.cs",
+              "RelativeToolTip": "Day 9 Task\\Class\\CircleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:56:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Program.cs",
+              "RelativeDocumentMoniker": "Day 9 Task\\Program.cs",
+              "ToolTip": "C:\\Users\\DEll\\Source\\Repos\\Day 9 Task\\Day 9 Task\\Program.cs",
+              "RelativeToolTip": "Day 9 Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:59:52.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

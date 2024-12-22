@@ -1,0 +1,14 @@
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\bin\Debug\net8.0\Day 9 Part02.exe
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\bin\Debug\net8.0\Day 9 Part02.deps.json
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\bin\Debug\net8.0\Day 9 Part02.runtimeconfig.json
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\bin\Debug\net8.0\Day 9 Part02.dll
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\bin\Debug\net8.0\Day 9 Part02.pdb
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.AssemblyInfoInputs.cache
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.AssemblyInfo.cs
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.dll
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\refint\Day 9 Part02.dll
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.pdb
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\Day 9 Part02.genruntimeconfig.cache
+C:\Users\DEll\Source\Repos\Day 9 Part02\Day 9 Part02\obj\Debug\net8.0\ref\Day 9 Part02.dll
